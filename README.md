@@ -23,8 +23,5 @@ This project demonstrates how to perform real-time object detection using OpenCV
 2. (Optional) Create and activate a virtual environment:
 
 
-```bash
-python -m venv venv
-source venv/bin/activate # macOS / Linux
-venv\Scripts\activate # Windows
 <img width="901" height="447" alt="image" src="https://github.com/user-attachments/assets/2f67832a-4f77-4557-9c2c-5868bfc435bf" />
+<img width="1000" height="629" alt="image" src="https://github.com/user-attachments/assets/2c21a235-db48-4a8b-b98e-71f2278cb261" />
